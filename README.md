@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the pages of TigerEyes
 
 You can use the [editor on GitHub](https://github.com/tigereyes-ca/tigereyes-ca.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
