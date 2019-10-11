@@ -6,9 +6,38 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 14 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>A second Post</title>
+      <link>http://example.org/content/posts/second-post/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/content/posts/second-post/</guid>
+      <description>A lot more Wise words.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/content/about/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/content/about/</guid>
+      <description>Hugo Starter Theme for Tailwindcss.
+Made by me.</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/content/posts/first-post/</link>
+      <pubDate>Mon, 13 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/content/posts/first-post/</guid>
+      <description>Wise words.</description>
+    </item>
     
   </channel>
 </rss>
