@@ -6,10 +6,19 @@
     <description>Recent content in Galleries on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 12 Oct 2019 13:50:05 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2019 16:39:22 -0700</lastBuildDate>
     
 	<atom:link href="/galleries/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tigers of Sacred Places</title>
+      <link>/galleries/tigers/</link>
+      <pubDate>Thu, 17 Oct 2019 16:39:22 -0700</pubDate>
+      
+      <guid>/galleries/tigers/</guid>
+      <description>             </description>
+    </item>
     
     <item>
       <title>Animals</title>
